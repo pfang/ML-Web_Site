@@ -1,0 +1,21 @@
+{
+    "name": "<Paul>",
+    "netlify_subdomain": "<https://dreamy-yalow-6e60ab.netlify.com/>",
+    "optional_dns": "<YOUR CUSTOM DOMAIN NAME IF YOU HAVE ONE OR PLAN TO USE ONE>",
+    "blog_post_1": {
+        "title": "<Self-driving cars are here>",
+        "url": "<https://medium.com/@andrewng/self-driving-cars-are-here-aea1752b1ad0>",
+        "keywords": ["<AI>","<ML>","<Data>"]
+    },
+    "blog_post_2": {
+        "title": "<Announcing the AI Fund: Building transformative AI companies>",
+        "url": "<https://medium.com/@andrewng/self-driving-cars-are-here-aea1752b1ad0>",
+        "keywords": ["<AI>","<Funding>","<ML>"]
+    },
+    "blog_post_3": {
+        "title": "<Revitalizing manufacturing through AI>",
+        "url": "<https://medium.com/@andrewng/revitalizing-manufacturing-through-ai-a9ad32e07814>",
+        "keywords": ["<AI:>","<Building>","<ML>"]
+    },
+    "my_linkedin": "<linkedin.com/paulxfang>"
+}
